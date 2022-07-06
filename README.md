@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that helps me learn and grow. While I do have experience with the Open-Source community, my dayjob is currently in a Windows environment, so that's where much of my focus lies currently.
 - 📫 How to reach me: github@jawsh.me (Though I likely won't reply from this address)
 
+Profile picture created for me by Suzanne Benner, community manager over on Spiceworks.
+
 
 <!---
 jawsh-me/jawsh-me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
